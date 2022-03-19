@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+#entete, #menu, #contenu, #footer {
+	padding: 1px 0;
+}
+
+#entete {
+	background-color: gray;
+	text-align: center;
+	height: 60px;
+	padding-top: 25px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#contenu {
+	background-color: hsl(0, 18%, 93%);
+	height: 500px;
+}
+
+#footer {
+	background-color: gray;
+	text-align: center;
+	clear: both;
+	height: 115px;
+}
+
+#connect {
+	text-align: center;
+}
+
+#carouselExampleSlidesOnly {
+	color: white;
+}
+
+body {
+	background: linear-gradient(0.25turn, #8a8c8d, #e2e4e1, #504f4d);
+}
+
+h2 {
+	position: relative;
+	font-size: 14vW;
+	color: #252839;
+	-webkit-text-stroke: 0.3vw #383d52;
+	text-transform: uppercase;
+}
+
+#je {
+	text-algn: center;
+	color: black;
+	
+}
